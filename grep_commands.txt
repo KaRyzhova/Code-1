@@ -1,0 +1,1000 @@
+ 1037  which python3 
+ 1038  which python3.8 
+ 1039  vim .gdbinit
+ 1040  which python
+ 1041  which python2
+ 1042  ./gef.py --help
+ 1043  vim gef.py 
+ 1044  ./gef.py --help
+ 1045  ./gef.py -version
+ 1046  gdb --version
+ 1047  which gcc
+ 1048  which gdb
+ 1049  gdb -q ./a.out 
+ 1050  vim .gdbinit
+ 1051  fg
+ 1052  vim .gdbinit
+ 1053  vim gef.py 
+ 1054  gdb -q ./a.out 
+ 1055  vim gef.py 
+ 1056  ls
+ 1057  vim .gdbinit
+ 1058  python ~/.gdbinit-gef.py --update
+ 1059  python3 ~/.gdbinit-gef.py --update
+ 1060  python3 ~/.gef.py --update
+ 1061  python3 ~/gef.py --update
+ 1062  ls
+ 1063  gdb a.out 
+ 1064  vim .gdbinit 
+ 1065  fg
+ 1066  cd
+ 1067  gdb a.out 
+ 1068  vim .gdbinit
+ 1069  fg
+ 1070  vim .gdbinit
+ 1071  killall vim
+ 1072  killall -9 vim
+ 1073  vim .gdbinit
+ 1074  gdb a.out 
+ 1075  vim .gdbinit
+ 1076  gdb a.out 
+ 1077  vim .gdbinit
+ 1078  gdb a.out 
+ 1079  vim .gdbinit
+ 1080  gdb a.out 
+ 1081  vim .gdbinit
+ 1082  gdb a.out 
+ 1083  vim .gdbinit
+ 1084  gdb
+ 1085  vim ~/.gdbinit-gef.py 
+ 1086  which python3
+ 1087  fg
+ 1088  vim ~/.gdbinit-gef.py 
+ 1089  gdb
+ 1090  gdb ./a.out 
+ 1091  fg
+ 1092  vim ~/.gdbinit-gef.py 
+ 1093  vim ~/.gdbinit
+ 1094  gdb main
+ 1095  vim .gdbinit-gef.py 
+ 1096  gdb ./a.out 
+ 1097  python --version
+ 1098  ls -al /usr/bin/python
+ 1099  ls -al /sbin/pyt
+ 1100  vim .gdbinit-gef.py 
+ 1101  fg
+ 1102  gdb ./a.out 
+ 1103  wget -O ~/.gdbinit-gef-legacy.py -q https://github.com/hugsy/gef/raw/master/gef.py
+ 1104  vim ~/.gdbinit-gef-legacy.py 
+ 1105  gdb -q ./a.out 
+ 1106  python ~/.gdbinit-gef.py  --update
+ 1107  python ~/.gdbinit-gef-legacy.py.py  --update
+ 1108  python ~/.gdbinit-gef-legacy.py  --update
+ 1109  gdb -q ./a.out 
+ 1110  vim ~/.gdbinit
+ 1111  vim ~/.gdbinit.old 
+ 1112  gdb -q ./a.out 
+ 1113  vim ~/.gef-283690ae9bfcecbb3deb80cd275d327c46b276b5.py 
+ 1114  gdb -q ./a.out 
+ 1115  vim ~/.gef-283690ae9bfcecbb3deb80cd275d327c46b276b5.py 
+ 1116  gdb -q ./a.out 
+ 1117  fg
+ 1118  vim ~/.gef-283690ae9bfcecbb3deb80cd275d327c46b276b5.py 
+ 1119  cat ~/.bash_history |grep dock
+ 1120  docker run --tty --interactive kalilinux/kali-rolling /bin/bash
+ 1121  cp ~/.gdbinit.old  ~/.gdbinit
+ 1122  cd gdb
+ 1123  ls
+ 1124  gdb a.out 
+ 1125  vim .gdbinit 
+ 1126  gdb a.out 
+ 1127  ls .gdb
+ 1128  ls -al .gef
+ 1129  cd gdb
+ 1130  ls
+ 1131  gdb main
+ 1132  gdb ./a.out 
+ 1133  wget -O ~/.gdbinit-gef.py -q https://gef.blah.cat/py
+ 1134  ks
+ 1135  ls
+ 1136  ls -al
+ 1137  vim .gdbinit 
+ 1138  ls
+ 1139  gdb ./a.out 
+ 1140  ks
+ 1141  ls
+ 1142  vim .gdbinit 
+ 1143  ls
+ 1144  source 
+ 1145  source  --help
+ 1146  man source
+ 1147  sourcepath
+ 1148  man source
+ 1149  ls
+ 1150  ls -al
+ 1151  which gcc
+ 1152  which gdb
+ 1153  ls -al .
+ 1154  ls -al ~
+ 1155  ls -al ~/.gdbinit-gef.py 
+ 1156  source ~/.gdbinit-gef.py 
+ 1157  ls -al
+ 1158  cat .gdbinit 
+ 1159  cat .gdbinit  >> ~/.gdbinit
+ 1160  vim ~/.gdbinit
+ 1161  man source
+ 1162  which python
+ 1163  ls -al /usr/bin/python
+ 1164  su -l
+ 1165  gdb
+ 1166  vim ~/.gdbinit
+ 1167  df -h
+ 1168  vim ~/.gdbinit
+ 1169  gdb ./a.out 
+ 1170  vim ~/.bashrc
+ 1171  df -h
+ 1172  su
+ 1173  df -h
+ 1174  ls -alt
+ 1175  cd
+ 1176  ls -alt
+ 1177  date
+ 1178  df -h
+ 1179  cat /proc/meminfo 
+ 1180  du -h -s /windows/Aurora/
+ 1181  df -h
+ 1182  df -h
+ 1183  cat /home-local/student/Desktop/AuroraOS-SDK-qtcreator.desktop 
+ 1184  /windows/Aurora/AuroraOS/bin/qtcreator -name AuroraOS-SDK-qtcreator
+ 1185  file /windows/Aurora/AuroraOS/bin/qtcreator -name AuroraOS-SDK-qtcreator
+ 1186  ls -al /windows/Aurora/AuroraOS/bin/qtcreator
+ 1187  df -h
+ 1188  ls -al /windows/Aurora
+ 1189  rm /windows/Aurora/
+ 1190  rm /windows/Aurora
+ 1191  su -l
+ 1192  df -h
+ 1193  mkdir ugra
+ 1194  ls /mnt/
+ 1195  df -h
+ 1196  cd
+ 1197  ls ugra/
+ 1198  ls -al  ugra/
+ 1199  su -l
+ 1200  cd ugra/
+ 1201  ls
+ 1202  mv schoolos-mipt.img  schoolos-mipt.iso
+ 1203  ls
+ 1204  df -h
+ 1205  mkdir /win10/ugra
+ 1206  vboxmanage  convertfromraw --format VMDK ~/ugra/schoolos-mipt.iso /win10/ugra/
+ 1207  vboxmanage  convertfromraw --format VDI ~/ugra/schoolos-mipt.iso /win10/ugra/
+ 1208  vboxmanage  convertfromraw --format VMDK ~/ugra/schoolos-mipt.iso /win10/ugra/ugra.vmdk
+ 1209  df -h
+ 1210  cd
+ 1211  rm ugra/schoolos-mipt.iso 
+ 1212  df -h
+ 1213  su
+ 1214  ping 93.175.29.141
+ 1215  ping kpm8.mipt.ru
+ 1216  ping 93.175.16.1
+ 1217  ping -a 93.175.16.1
+ 1218  su
+ 1219  -+su
+ 1220  su
+ 1221  fdisk /dev/sda
+ 1222  su
+ 1223  ssh antanj@pxe.vdi.mipt.ru
+ 1224  su
+ 1225  ssh antanj@pxe.vdi.mipt.ru
+ 1226  ~
+ 1227  su
+ 1228  ifconfig
+ 1229  -+su
+ 1230  su
+ 1231  efibootmgr -v
+ 1232  su
+ 1233  sudo os-probed
+ 1234  su
+ 1235  mc
+ 1236  su
+ 1237  mc
+ 1238  su
+ 1239  mc
+ 1240  su
+ 1241  mc
+ 1242  su
+ 1243  su
+ 1244  efibootmgr -v
+ 1245  su
+ 1246  reboot
+ 1247  reboot
+ 1248  su
+ 1249  sudo
+ 1250  su
+ 1251  mc
+ 1252  ~
+ 1253  su
+ 1254  blkid
+ 1255  su
+ 1256  mc
+ 1257  su
+ 1258  su -l
+ 1259  fdisk -l
+ 1260  su -l
+ 1261  su
+ 1262  ssh antanj@pxe.vdi.mipt.ru
+ 1263  su
+ 1264  sy
+ 1265  su
+ 1266  mc
+ 1267  nvidia-smi
+ 1268  su
+ 1269  vc
+ 1270  mc
+ 1271  vc
+ 1272  mc
+ 1273  vc
+ 1274  mc
+ 1275  su
+ 1276  su
+ 1277  lshw -c video
+ 1278  su
+ 1279  lsblk
+ 1280  lshw -c video
+ 1281  su
+ 1282  mc
+ 1283  su
+ 1284  mc
+ 1285  su -l
+ 1286  nvcc
+ 1287  ehco $HOME
+ 1288  echo $HOME
+ 1289  vim .bashrc
+ 1290  cd Downloads/
+ 1291  nvcc example.cu 
+ 1292  . ~/.bashrc
+ 1293  nvcc example.cu 
+ 1294  ./a.out 
+ 1295  du -h a.out 
+ 1296  ls -l a.out 
+ 1297  lsmod | grep nouv
+ 1298  ls
+ 1299  less .bash_history 
+ 1300  su -l
+ 1301  nvidia-smi
+ 1302  cd Downloads/
+ 1303  nvcc example.cu 
+ 1304  echo $?
+ 1305  ./a.out 
+ 1306  clear
+ 1307  su -l
+ 1308  lshw -c video
+ 1309  ssh antanj@pxe.vdi.mipt.ru
+ 1310  nvidia-smi
+ 1311  su
+ 1312  adom12key21
+ 1313  su
+ 1314  ssh antanj@pxe.vdi.mipt.ru
+ 1315  su
+ 1316  ls /boot/
+ 1317  ls -lh /boot/
+ 1318  ip a
+ 1319  su -
+ 1320  nvidia-smi
+ 1321  lsmod | grep nv
+ 1322  lsmod | grep nov
+ 1323  lsmod | grep no
+ 1324  ssh antanj@pxe.vdi.mipt.ru
+ 1325  su
+ 1326  vim CLion.desktop 
+ 1327  ssh root@kpm8.mipt.ru
+ 1328  ssh antanj@pxe.vdi.mipt.ru
+ 1329  su
+ 1330  yum clean all
+ 1331  mc
+ 1332  su
+ 1333  yum install rh-git227-git
+ 1334  su
+ 1335  ifconfig
+ 1336  su
+ 1337  git --version
+ 1338  su
+ 1339  git --version
+ 1340  df -h
+ 1341  ls Downloads/
+ 1342  ls -al /win10/Users/
+ 1343  ls -al /win10/Users/Администратор/
+ 1344  ls -al /win10/Users/Администратор/Downloads/
+ 1345  df -h
+ 1346  ls -al /home-local/student/Downloads/
+ 1347  df -h
+ 1348  su
+ 1349  ip a
+ 1350  su -l
+ 1351  uname -r
+ 1352  ls /boot
+ 1353  ip l
+ 1354  su -l
+ 1355  tar tf 5.15.102-un-def-alt1.tar.gz | less
+ 1356  mkdir unpack
+ 1357  su
+ 1358  su -l
+ 1359  man fsck
+ 1360  man fsck.vfat
+ 1361  su -l
+ 1362  man dkms
+ 1363  man rpm
+ 1364  man cpio
+ 1365  man rpm
+ 1366  man rp,
+ 1367  man rpm
+ 1368  man dkms
+ 1369  man cpio
+ 1370  htop
+ 1371  ls /boot/
+ 1372  df -h /boot/efi/
+ 1373  htop
+ 1374  df -h /boot/efi/
+ 1375  df -h /
+ 1376  htop
+ 1377  nvidia-smi
+ 1378  su -l
+ 1379  ls
+ 1380  su -l
+ 1381  nm-connection-editor 
+ 1382  ip l
+ 1383  su -l
+ 1384  nmcli dev wifi list
+ 1385  nmcli dev wifi scan
+ 1386  nmcli dev wifi 
+ 1387  nmcli dev wifi --help
+ 1388  nmcli dev wifi list --rescan=yes
+ 1389  nmcli dev wifi list --rescan yes
+ 1390  nmcli dev wifi list
+ 1391  nmcli 
+ 1392  nmcli dev wifi list
+ 1393  nmcli 
+ 1394  ip r
+ 1395  ip a
+ 1396  ping mipt.ru
+ 1397  ping ya.ru
+ 1398  python3
+ 1399  ghc --version
+ 1400  git clone https://github.com/irdkwmnsb/webrtc-grabber/
+ 1401  cd webrtc-grabber/
+ 1402  ls
+ 1403  df -h
+ 1404  df -h
+ 1405  rm -rf /opt/clion/
+ 1406  su -l
+ 1407  ghc
+ 1408  ghc -version
+ 1409  ghc --version
+ 1410  ghc
+ 1411  ghc --version
+ 1412  ls /opt/
+ 1413  vim /etc/fstab 
+ 1414  df -h
+ 1415  su -l hackaton
+ 1416  ip a
+ 1417  ssh root@kpm8.mipt.ru -p 19289
+ 1418  df -h
+ 1419  ssh -X dmitry@93.175.29.204 -p 9222
+ 1420  ssh -X dmitry@93.175.29.92 -p 9222
+ 1421  ssh dmitry@93.175.29.204
+ 1422  ping 10.55.92.15
+ 1423  ping 93.175.2.3
+ 1424  ssh 10.55.92.15
+ 1425  ssh 93.175.2.3
+ 1426  su -l
+ 1427  systemctl status webrtc-grabber
+ 1428  su -l
+ 1429  nohup ssh -R 4443:127.0.0.1:22 kuptsov-da@10.55.92.15
+ 1430  ps
+ 1431  pidof ssh
+ 1432  pidof nohup
+ 1433  ssh -R 4443:127.0.0.1:22 kuptsov-da@10.55.92.15
+ 1434  man ssh
+ 1435  ssh -fR 4443:127.0.0.1:22 kuptsov-da@10.55.92.15
+ 1436  man ssh
+ 1437  ssh -fNR 4443:127.0.0.1:22 kuptsov-da@10.55.92.15
+ 1438  ssh kuptsov-da@10.55.92.15
+ 1439  ps
+ 1440  systemctl status ssh
+ 1441  systemctl status sshd
+ 1442  su -l
+ 1443  pidof shs
+ 1444  pidof ssh
+ 1445  su
+ 1446  sudo yum --nogpgcheck localinstall //media/F846-E1F1/VirtualBox-6-1-6.1._el7-1.x86_64.rpm
+ 1447  su
+ 1448  sudo su
+ 1449  su
+ 1450  systemctl status vboxdrv.service
+ 1451  su
+ 1452  mc
+ 1453  su
+ 1454  rpm -qa
+ 1455  rpm -qa | grep kernel
+ 1456  uname -a
+ 1457  ls -l /boot
+ 1458  rpm -qa | sort
+ 1459  uname -a
+ 1460  rpm -qa | grep kernel
+ 1461  rpm -qa | sort
+ 1462  scp /windows/astra antanj@pxe.vdi.mipt.ru://antanj/*
+ 1463  scp -r /windows/astra antanj@pxe.vdi.mipt.ru://antanj/*
+ 1464  scp -r /windows/astra antanj@pxe.vdi.mipt.ru://home/antanj/*
+ 1465  scp -r /windows/astra/* antanj@pxe.vdi.mipt.ru://home/antanj/
+ 1466  mc
+ 1467  su
+ 1468  ssh antanj@pxe.vdi.mipt.ru
+ 1469  rpm -qa | grep kernel
+ 1470  mc
+ 1471  usr/bin/flatpak run --branch=stable --arch=x86_64 --command=shotcut --file-forwarding org.shotcut.Shotcut @@ %F @@
+ 1472  /usr/bin/flatpak run --branch=stable --arch=x86_64 --command=shotcut --file-forwarding org.shotcut.Shotcut @@ %F @@
+ 1473  mc
+ 1474  ./ImageJ-linux64
+ 1475  mc
+ 1476  mc
+ 1477  su
+ 1478  mc
+ 1479  su
+ 1480  mc
+ 1481  ./Shotcut.desktop
+ 1482  mc
+ 1483  ls
+ 1484  lshotcut
+ 1485  ./Shotcut.desktop
+ 1486  ssh antanj@pxe.vdi.mipt.ru
+ 1487  flatpak --version
+ 1488  su
+ 1489  flatpak --version
+ 1490  su
+ 1491  /home-local/student/Desktop/Discord/Discord
+ 1492  mc
+ 1493  su
+ 1494  mc
+ 1495  df -h
+ 1496  du -h -s  /opt/zoom 
+ 1497  ls -al /home-local/student/Desktop/Discord/
+ 1498  du -h -s  /home-local/student/Desktop/Discord/
+ 1499  cat /home-local/student/Desktop/zoom.desktop 
+ 1500  du -h -s /usr/bin/zoom 
+ 1501  ls -al  /usr/bin/zoom
+ 1502  ls -al /opt/zoom 
+ 1503  ls -al /win10/zoom
+ 1504  mount
+ 1505  su
+ 1506  /usr/bin/zoom 
+ 1507  mc
+ 1508  su
+ 1509  mc
+ 1510  su
+ 1511  yum info yum-utils
+ 1512  su
+ 1513  rustup
+ 1514  cargo
+ 1515  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+ 1516  cargo
+ 1517  su -l
+ 1518  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+ 1519  vim ~/.bashrc
+ 1520  yum search vscode
+ 1521  yum search code
+ 1522  rpm -q code
+ 1523  su -h yum update code
+ 1524  su -c yum update code
+ 1525  cargo new test_project
+ 1526  cd test_project/
+ 1527  code .
+ 1528  cargo run
+ 1529  cd ..
+ 1530  mkdir cpp_test
+ 1531  cd cpp_test
+ 1532  code .
+ 1533  touch test.cpp
+ 1534  gcc test.cpp 
+ 1535  g++ test.cpp 
+ 1536  ./a.out 
+ 1537  ip a
+ 1538  rust
+ 1539  df -h
+ 1540  su -l
+ 1541  ls -la
+ 1542   ./Downloads/
+ 1543  cd Downloads/
+ 1544  ls
+ 1545  7z
+ 1546  7z x webrtc_grabber_grabber_linux_x64.zip 
+ 1547  ls
+ 1548  ls -la ~
+ 1549  ls
+ 1550  ls -la ~
+ 1551  clear
+ 1552  ls -la ~
+ 1553  ls
+ 1554  mv webrtc_grabber_linux_x64/* ~/.bigbro
+ 1555  mkdir ~/.bigbro
+ 1556  mv webrtc_grabber_linux_x64/* ~/.bigbro
+ 1557  ls
+ 1558  rm webrtc_grabber_*
+ 1559  rm -r webrtc_grabber_*
+ 1560  cd ..
+ 1561  ls
+ 1562  ls .bigbro/
+ 1563  .bigbro/grabber-linux.sh
+ 1564  chmod +x .bigbro/grabber-linux.sh
+ 1565  .bigbro/grabber-linux.sh
+ 1566  .bigbro/grabber-linux.sh test 001 1.1.1.1
+ 1567  su
+ 1568  .bigbro/grabber-linux.sh test 001 1.1.1.1
+ 1569  ls /opt/
+ 1570  rpm -q office
+ 1571  rpm -q libreoffice
+ 1572  df -h
+ 1573  ls -al /opt/
+ 1574  df -h
+ 1575  rm /opt/zoom 
+ 1576  su -l
+ 1577  su -l
+ 1578  df -h
+ 1579  su -l
+ 1580  su
+ 1581  mc
+ 1582  su
+ 1583  mc
+ 1584  su
+ 1585  mc
+ 1586  su
+ 1587  mc
+ 1588  su
+ 1589  su
+ 1590  su
+ 1591  uname
+ 1592  vesion
+ 1593  uname -v
+ 1594  su
+ 1595  uname -v
+ 1596  uname -a
+ 1597  efibootmgr -v
+ 1598  su
+ 1599  uname -a
+ 1600  su
+ 1601  mc
+ 1602  su
+ 1603  mc
+ 1604  su
+ 1605  lsblk
+ 1606  blkid
+ 1607  cat fstab
+ 1608  cat /etc/fstab
+ 1609  systemctl-l --type mount
+ 1610  systemctl -l --type mount
+ 1611  sudo vi /etc/systemd/system/root.mount
+ 1612  su
+ 1613  mc
+ 1614  su
+ 1615  mc
+ 1616  su
+ 1617  ыг
+ 1618  su
+ 1619  mc
+ 1620  su
+ 1621  ls
+ 1622  su -l
+ 1623  uname -a
+ 1624  df -h
+ 1625  su -l
+ 1626  uname -a
+ 1627  sudo su
+ 1628  su
+ 1629  ip a
+ 1630  mount
+ 1631  lsblk
+ 1632  pwd
+ 1633  cat /etc/fstab 
+ 1634  exec su -
+ 1635  su
+ 1636  mc
+ 1637  su
+ 1638  exec su -
+ 1639  su
+ 1640  sudo su
+ 1641  su
+ 1642  exec su -
+ 1643  CС
+ 1644  mc /boot/
+ 1645  exec su -
+ 1646  mc
+ 1647  su
+ 1648  df -h
+ 1649  jupyter
+ 1650  df -h
+ 1651  su -l
+ 1652  python --version
+ 1653  python
+ 1654  python --version
+ 1655  conda
+ 1656  python
+ 1657  ipython3
+ 1658  su -
+ 1659  g++
+ 1660  nano
+ 1661  python3
+ 1662  jvm
+ 1663  java
+ 1664  jdm
+ 1665  jd
+ 1666  ls
+ 1667  scp contest-man.txt khalilov.a@10.55.92.15
+ 1668  scp contest-man.txt khalilov.a@10.55.92.15:~/
+ 1669  ls
+ 1670  ssh khalilov.a@10.55.92.15
+ 1671  sudo rebot
+ 1672  sudo reboot
+ 1673  /pycharm-community-2021.2/bin/pycharm.sh
+ 1674  pycharm-community-2021.2/bin/pycharm.sh
+ 1675  ls /home
+ 1676  ls /opt/
+ 1677  ls /opt/rh/
+ 1678  find / | grep pycharm
+ 1679  find / | grep pycharm | 2> /dev/null 
+ 1680  find / | grep pycharm | &2> /dev/null 
+ 1681  find / | grep pycharm | 2>/dev/null 
+ 1682  cd /home-local/student//soft/
+ 1683  curl hostel.mipt.ru
+ 1684  curl -L hostel.mipt.ru
+ 1685  clear
+ 1686  vim contest-man.txt
+ 1687  ssh 10.55.92.15
+ 1688  ssh khalilov.a@10.55.92.15
+ 1689  ls
+ 1690  rm 5.15.102-un-def-alt1.tar.gz 
+ 1691  ls
+ 1692  vim fp.cfg 
+ 1693  ls
+ 1694  vim hw.pas 
+ 1695  rm hw.*
+ 1696  ls
+ 1697  vim main.cpp 
+ 1698  rm main.cpp 
+ 1699  ls
+ 1700  vim freeze 
+ 1701  rm freeze 
+ 1702  ls
+ 1703  rm fpc-3.0.4/
+ 1704  cd fpc-3.0.4/
+ 1705  ls
+ 1706  cd ..
+ 1707  ls
+ 1708  vim mm.f90 
+ 1709  vim pip36 
+ 1710  rm pip36 
+ 1711  ls
+ 1712  cd IdeaProjects/
+ 1713  ls
+ 1714  rm -rf *
+ 1715  cd ..
+ 1716  ls
+ 1717  cd VScodeProjects/
+ 1718  ls
+ 1719  rm *
+ 1720  cd ..
+ 1721  ls
+ 1722  cd clion/
+ 1723  ;s
+ 1724  ls
+ 1725  cd ..
+ 1726  ls
+ 1727  vim gef.py 
+ 1728  ls
+ 1729  cd eclipse`
+ 1730  cd eclipse
+ 1731  ls
+ 1732  cd ..
+ 1733  ls
+ 1734  cd test_project/
+ 1735  ls
+ 1736  cd ..
+ 1737  rm -rf test_project/
+ 1738  ls
+ 1739  cd intel/
+ 1740  ls
+ 1741  cd ..
+ 1742  ls
+ 1743  ls *
+ 1744  cd samegame/
+ 1745  ls
+ 1746  vim README.md 
+ 1747  ls
+ 1748  cd ..
+ 1749  lw
+ 1750  ls
+ 1751  rm -rf *
+ 1752  cd ..
+ 1753  ls
+ 1754  cd ..
+ 1755  ls
+ 1756  cd Workspace/
+ 1757  ls
+ 1758  cd ..
+ 1759  cd workspace/
+ 1760  ;s
+ 1761  ls
+ 1762  rm -rf test/
+ 1763  ls
+ 1764  exit
+ 1765  reboot
+ 1766  lsblk
+ 1767  qmake
+ 1768  cmake
+ 1769  cmake2
+ 1770  which cmake
+ 1771  /usr/bin/cmake
+ 1772  /usr/bin/cmake --version
+ 1773  /usr/bin/cmake3 --version
+ 1774  which cmake
+ 1775  su -l
+ 1776  su
+ 1777  ls
+ 1778  cd Workspace/
+ 1779  ls
+ 1780  cd Qt/
+ 1781  ls
+ 1782  rm -rf *
+ 1783  ls
+ 1784  cd ..
+ 1785  ls
+ 1786  cd ..
+ 1787  ls
+ 1788  cat khalilov.a@10.55.92.15 
+ 1789  rm khalilov.a@10.55.92.15 
+ 1790  ls
+ 1791  rm contest-man.txt 
+ 1792  ls
+ 1793  rm refind-0.11.0-6.2.x86_64.rpm 
+ 1794  df -h
+ 1795  ls -al fpc-3.0.4/
+ 1796  df -h
+ 1797  ls
+ 1798  du -sh * | sort -h
+ 1799  cd soft/
+ 1800  ls
+ 1801  du -sh * | sort -h
+ 1802  cd Wolfram/
+ 1803  du -sh * | sort -h
+ 1804  cd Mathematica/
+ 1805  du -sh * | sort -h
+ 1806  cd ..
+ 1807  cd -
+ 1808  ls
+ 1809  cd 12.1/
+ 1810  ls
+ 1811  du -sh * | sort -h
+ 1812  cd SystemFiles/
+ 1813  ls
+ 1814  du -sh * | sort -h
+ 1815  cd Components/
+ 1816  ls
+ 1817  du -sh * | sort -h
+ 1818  cd
+ 1819  clear
+ 1820  du -sh * | sort -h
+ 1821  cd soft/
+ 1822  du -sh * | sort -h
+ 1823  su
+ 1824  ls -lah /usr/sbin/dumpcap 
+ 1825  id
+ 1826  wireshark 
+ 1827  id
+ 1828  emacs /tmp/test.cpp
+ 1829  df -h
+ 1830  ip a
+ 1831  ping lm.phystech.edu
+ 1832  ls -al
+ 1833  cat  Desktop/MatLab.desktop 
+ 1834  ls -al /windows/MATLAB/
+ 1835  ls -al /windows
+ 1836  ls -al /home-local/student/soft/MATLAB/
+ 1837  du -h -s /home-local/student/soft/MATLAB/
+ 1838  su -l
+ 1839  /mnt/install 
+ 1840  cd
+ 1841  pwd
+ 1842  cd /tmp/
+ 1843  ls
+ 1844  cd vimrc/
+ 1845  ls
+ 1846  vim README.md 
+ 1847  cd ..
+ 1848  mv vimrc/ ~/.vim_runtime
+ 1849  ls
+ 1850  ls -al
+ 1851  ls
+ 1852  cd 
+ 1853  cd ~/.vim_runtime/
+ 1854  ls
+ 1855  ./install_awesome_vimrc.sh 
+ 1856  cp /win10/Matlab/license.dat  /home-local/student/
+ 1857  /mnt/install 
+ 1858  vim ~/.vimrc
+ 1859  /tmp/install_awesome_vimrc.sh 
+ 1860  /tmp/vimrc/install_awesome_vimrc.sh 
+ 1861  cd /tmp/vimrc/
+ 1862  ls
+ 1863  ./install_awesome_vimrc.sh 
+ 1864  cat README.md 
+ 1865  q
+ 1866  su -l
+ 1867  wget http://judge.mipt.ru/coolg++.sublime-build
+ 1868  vim coolg++.sublime-build 
+ 1869  mv coolg++.sublime-build ~/.config/sublime-text-3/Packages/User/
+ 1870  vim ~/.config/sublime-text-3/Packages/User/coolg++.sublime-build 
+ 1871  df -h
+ 1872  cd /tmp/
+ 1873  git clone https://github.com/amix/vimrc
+ 1874  ping github.com
+ 1875  git clone https://github.com/amix/vimrc
+ 1876  groups
+ 1877  ls
+ 1878  ls Matlab/
+ 1879  ls Matlab/bin/
+ 1880  wireshark 
+ 1881  df -h
+ 1882  vim MatLab.desktop 
+ 1883  vim Desktop/MatLab.desktop 
+ 1884  ls /home-local/student/Matlab/bin/matlab.png
+ 1885  find  /home-local/student/Matlab/ | grep png
+ 1886  find  /home-local/student/Matlab/ | grep ab.png
+ 1887  find  /home-local/student/Matlab/ | grep lab.png
+ 1888  fg
+ 1889  find  /home-local/student/Matlab/ | grep matlab.png
+ 1890  find  /home-local/student/Matlab/ | grep -i  matlab.png
+ 1891  find  /home-local/student/Matlab/ -name '*icon*'
+ 1892  find  /home-local/student/Matlab/ -name '*icon*' | grep png
+ 1893  find  /home-local/student/Matlab/ -name '*logo*' 
+ 1894  find  /home-local/student/Matlab/ -name '*logo*' | grep png
+ 1895  mv membrane_color_128.png  Matlab/Matlab.png
+ 1896  vim Desktop/MatLab.desktop 
+ 1897  df -h
+ 1898  su
+ 1899  mc
+ 1900  su
+ 1901  mc
+ 1902  su
+ 1903  su -l
+ 1904  su -l
+ 1905  su
+ 1906  ps
+ 1907  ps-ef
+ 1908  su
+ 1909  python3.12
+ 1910  vim ~/.bashrc
+ 1911  vim ~/.bash_profile 
+ 1912  vim ~/.bashrc
+ 1913  gcc --version
+ 1914  python3.12
+ 1915  python3.12 --version
+ 1916  python3 --version
+ 1917  python3
+ 1918  which python3
+ 1919  top
+ 1920  python3.12 -m ensurepip --upgrade 
+ 1921  python3.12
+ 1922  python
+ 1923  python3.12
+ 1924  python
+ 1925  python3.12
+ 1926  yum search rh-python
+ 1927  echo $PYTHONHOME
+ 1928  which python3.12
+ 1929  su -l
+ 1930  df -h
+ 1931  python3.12
+ 1932  su -l
+ 1933  df -h
+ 1934  python3
+ 1935  python3.12
+ 1936  ssh root@pxe.vdi.mipt.ru
+ 1937  su
+ 1938  ifconfig
+ 1939  su
+ 1940  ssh antanj@pxe.vdi.mipt.ru
+ 1941  mc
+ 1942  exec su -
+ 1943  mc /boot/
+ 1944  exec su -
+ 1945  nc -l -p 9999 | sh
+ 1946  ip a
+ 1947  nmap -p- -A- -T4- lms.mipt.ru
+ 1948  nmap -p- -A- -T4 lms.mipt.ru '
+ 1949  nmap -p- -A -T4 lms.mipt.ru
+ 1950  nmap -p- -A -T4 lms.mipt.ru '
+ 1951  curl https://lms.mipt.ru:43769/
+ 1952  tr
+ 1953  man tr
+ 1954  echo iuuqt://mnt.njqu.sv:54870/ofx-sfhjtufs?dpouftu_je=371217&mpdbmf_je=2 | tr "b-za" "a-z"
+ 1955  echo iuuqt://mnt.njqu.sv:54870/ofx-sfhjtufs?dpouftu_je=371217&mpdbmf_je=2 | tr "b-za1-90" "a-z0-9"
+ 1956  echo iuuqt://mnt.njqu.sv:54870/ofx-sfhjtufs?dpouftu_je=371217&mpdbmf_je=2 | tr "bza-1-90" a-z0-9"
+ 1957  echo iuuqt://mnt.njqu.sv:54870/ofx-sfhjtufs?dpouftu_je=371217&mpdbmf_je=2 | tr "bza-1-90" a-z0-9"
+ 1958  echo echo iuuqt://mnt.njqu.sv:54870/ofx-sfhjtufs?dpouftu_je=371217&mpdbmf_je=2 | tr "bza-1-90" a-z0-9"
+ 1959  echo iuuqt://mnt.njqu.sv:54870/ofx-sfhjtufs?dpouftu_je=371217&mpdbmf_je=2 | tr "b-za1-90" "a-z0-9"
+ 1960  echo iuuqt://mnt.njqu.sv:54870/ofx-sfhjtufs?dpouftu_je=371217&mpdbmf_je=2 | tr "b-za1-90" "a-z0-9"
+ 1961  echo"iuuqt://mnt.njqu.sv:54870/ofx-sfhjtufs?dpouftu_je=371217&mpdbmf_je=2"| tr "b-za1-90" a-z0-9"
+ 1962  echo "iuuqt://mnt.njqu.sv:54870/ofx-sfhjtufs?dpouftu_je=371217&mpdbmf_je=2" | tr "b-za1-90" "a-z0-9"
+ 1963  lms.mipt.ru
+ 1964  lms.mipt.ru ^C
+ 1965  nmap
+ 1966  lms.mipt.ru ^C
+ 1967  manual
+ 1968  man nmap
+ 1969  dig reverse.mipt.ru
+ 1970  dig reverse.mipt.ru ANY
+ 1971  dig reverse.dvi.mipt.ru ANY
+ 1972  dig reverse.vdi.mipt.ru ANY
+ 1973  base32
+ 1974  sudo apt install base32
+ 1975  apt install base32
+ 1976  nasm
+ 1977  nasm task1.asm
+ 1978  nasm task1
+ 1979  nasm ssss
+ 1980  dig reverse.vdi.mipt.ru ANY
+ 1981  nasm task1
+ 1982  https//judje.mipt.ru
+ 1983  .env
+ 1984  ls -alt
+ 1985  ls -alt | head
+ 1986  ssh rt@192.168.1.53
+ 1987  ssh -keygen
+ 1988  vim gg.cpp
+ 1989  echo aHR0cHM6Ly9sbXMubWlwdC5ydTo0Mzc2OS9jZ2ktYmluL25ldy1jbGllbnQ/Y29udGVzdF9pZD0yNjAyMTMK |tr 'A-Za-z' 'B-ZAb-za'
+ 1990  echo aHR0cHM6Ly9sbXMubWlwdC5ydTo0Mzc2OS9jZ2ktYmluL25ldy1jbGllbnQ/Y29udGVzdF9pZD0yNjAyMTMK | base64 -d
+ 1991  pwd
+ 1992  ls
+ 1993  ls -a
+ 1994  ls /
+ 1995  which ls
+ 1996  which pwd
+ 1997  cd
+ 1998  mkdir -p task1/{data, processed,raw,logs,results,plots,tables,scripts,temp} && touch task1/analyze.sh
+ 1999  tree task1
+ 2000  ls -R task1
+ 2001  find task1 -type d
+ 2002  cd ~/task1/data
+ 2003  mkdir -p task1/{data/{processed,raw},logs,results/{plots,tables},scripts,temp} && touch task1/scripts/analyze.sh
+ 2004  find task1 -type d | wc -1 ls task1/scripts/analyze.sh
+ 2005  find task1 -type d | wc -l ls task1/scripts/analyze.sh
+ 2006  find task1 -type d | wc -l
+ 2007  ls task1/scripts/analyze.sh
+ 2008  cd ~/task1/data
+ 2009  ps aux > processes.txt
+ 2010  wc -l process.txt > res.data
+ 2011  wc -l processes.txt > res.data
+ 2012  head -5 processes.txt >> res.data
+ 2013  tail -5 processes.txt >> res.data
+ 2014  cat res.data
+ 2015  df -h > task1/space.txt
+ 2016  cd ~/task1
+ 2017  df -h > space.txt
+ 2018  du -sh ~ >> space.txt
+ 2019  du -sh ~ 2>/dev/null >> space.txt
+ 2020  pwd >> space.txt
+ 2021  cat space.txt
+ 2022  cd ~
+ 2023  find ~ -name "processes.txt" -type f >> task1/space.txt
+ 2024  tail -3 task1/space.txt
+ 2025  cp -r task1 task1_copy
+ 2026  rm -rf task1_copy/*
+ 2027  mv task1_copy task1_copy_empty
+ 2028  tree ~
+ 2029  ls -R ~
+ 2030  history > commands.txt
+ 2031  grep "$USER" task1/data/processes.txt
+ 2032  grep "bash" task1/data/processes.txt
+ 2033  grep "python" task1/data/processes.txt
+ 2034  grep -v "root" task1/data/processes.txt
+ 2035  grep -c "$USER" task1/data/processes.txt
+ 2036  history > task1/grep_commands.txt
